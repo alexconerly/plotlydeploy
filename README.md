@@ -2,7 +2,7 @@
 
 ## Overview of the Project
 
-The purpose of this project was to create interactive data visualizations in JavaScript using Plotly.js, a JavaScript visualization library (along with HTML, JS6, D3, and Bootstrap CSS), in order to aid a food company called "Improbable Beef" in analyzing bacteria found in study volunteers' navels.  The goal of the food startup was to compare these bacteria in order to determine if any of these bacteria may be useful in synthesizing proteins which taste like beef.  Given a JSON array of all the data collected from the study, including the ID numbers of the volunteers, an interactive and dynamic webpage was created which allows the participants and researchers alike to select a volunteer's ID in a dropdown menu in order to view the volunteer's demographics and the corresponding bacteria discovered on the selected participant.
+The purpose of this project was to create interactive data visualizations in JavaScript using Plotly.js, a JavaScript visualization library (along with HTML, JS6, D3, and Bootstrap CSS), in order to aid a food company called "Improbable Beef" in analyzing bacteria found in study volunteers' navels.  The goal of the food startup was to compare these bacteria in order to determine if any of the findings may be useful in synthesizing proteins to taste like beef.  Given a JSON array of all the data collected from the study, including the ID numbers of the volunteers, an interactive and dynamic webpage dashboard was created to allow the participants and researchers alike to select a volunteer's ID from a dropdown menu in order to view the volunteer's demographics and the corresponding bacteria discovered on the selected participant.
 
 ---------------------------------------------
 ## Resources:
