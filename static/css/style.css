@@ -6,4 +6,7 @@ body {background-color: rgb(77, 127, 185);}
   text-align: center;
   color: white;
 }
-  
+
+.info {
+  margin-bottom: 15px;
+}
